@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/vidya-ai.git
+git clone https://github.com/farhann-i/vidya-ai.git
 cd vidya-ai
 Install Dependencies: Ensure you have Flutter installed, then run:
 
